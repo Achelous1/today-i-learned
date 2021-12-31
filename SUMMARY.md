@@ -6,4 +6,4 @@
 
 * [Django](python/django/README.md)
   * [Django Rest Frame Work (DRF)](python/django/django-rest-frame-work-drf/README.md)
-    * [Page 2](python/django/django-rest-frame-work-drf/page-2.md)
+    * [2021-12-31](python/django/django-rest-frame-work-drf/2021-12-31.md)
