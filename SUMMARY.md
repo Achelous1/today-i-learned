@@ -1,9 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+## 🗓 2021
 
-## Python
-
-* [Django](python/django/README.md)
-  * [Django Rest Frame Work (DRF)](python/django/django-rest-frame-work-drf/README.md)
-    * [2021-12-31](python/django/django-rest-frame-work-drf/2021-12-31.md)
+* [🗓 2021-12](README.md)
+  * [2021-12-31](2021/2021-12/2021-12-31.md)
